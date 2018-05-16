@@ -1,5 +1,5 @@
 ## `catver.ini`
-> version 0.197 (April 27, 2018)
+> version 0.198 (May xx, 2018)
 
 ---
 
@@ -15,4 +15,4 @@ In this package you can find these ini files:
 This file is to be considered an unofficial version of the file "catver.ini".
 The original version is available here: http://www.progettoemma.net/?catlist
 
-© AntoPISA progettoSNAPS.net
+© AntoPISA www.progettoSNAPS.net
