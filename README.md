@@ -1,5 +1,5 @@
 ## `catver.ini`
-> version 0.198 (May xx, 2018)
+> version 0.197 (April 27, 2018)
 
 ---
 
