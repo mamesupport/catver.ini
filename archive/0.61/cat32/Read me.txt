@@ -1,0 +1,36 @@
+Contact:  trigger@mameworld.net
+Web site: http://www.mameworld.net/catlist
+Date: 20 July 2002
+
+Files for: MAME32 version .61
+
+The included files are as follows:
+
+
+Version.ini:    This file is semi-redundant, replacing the one mame32 comes with.
+
+
+Catlist.ini:    The complex categories as they appear in the catver file 
+                http://www.mameworld.net/catlist/files/catver.zip
+
+
+Genre.ini:      The simplified categories as they appear in the genrev file
+                http://www.mameworld.net/catlist/files/genrev.zip
+
+
+Driver.ini:     The MAME driver used by the game. Often, bugs will affect all or
+                most games in a driver.
+
+
+Resolution.ini: The resolution of the game.
+
+
+Mature.ini:     Games containing nudity or not.
+
+
+----------------------------------------------------------------------------------
+
+Usage:
+
+Place the files you wish to use into mame32's "Folders" directory. 
+Restart mame32 to see new folders.

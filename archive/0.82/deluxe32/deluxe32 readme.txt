@@ -1,0 +1,11 @@
+Web site: http://www.mameworld.net/catlist
+Date: 08-May-04
+
+Files for: MAME32 version .82(rev. 1)
+
+
+Usage:
+
+Adds a set of Main Category folders to mame32.
+Unzip the files into mame32's `Folders` directory.
+Restart mame32 to see new folders.
